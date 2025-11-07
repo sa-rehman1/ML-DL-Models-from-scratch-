@@ -9,6 +9,7 @@ The purpose of this repository is to understand the **inner workings of algorith
 ## Machine Learning
 Implemented ML models include:                               
 1 - K-Nearest Neighbors (KNN)
+2 - Linear Regression (Both Gradient Descent and OLS Implementation)
 
 New models will be added daily
 
