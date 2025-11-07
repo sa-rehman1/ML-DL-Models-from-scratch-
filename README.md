@@ -8,19 +8,12 @@ The purpose of this repository is to understand the **inner workings of algorith
 
 ---
 
-## Table of Contents
-- [Machine Learning](#machine-learning)
-- [Deep Learning](#deep-learning)
-- [Usage](#usage)
-- [Repository Structure](#repository-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
----
 
 ## Machine Learning
 Implemented ML models include:
 1 - K-Nearest Neighbors (KNN)
+
+New models will be added daily
 
 
 
